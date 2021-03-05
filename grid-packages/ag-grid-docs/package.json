@@ -39,7 +39,7 @@
   "dependencies": {
     "algoliasearch": "3.30.0",
     "chokidar": "3.5.1",
-    "escodegen": "1.11.0",
+    "escodegen": "1.14.3",
     "esprima": "4.0.1",
     "express-http-proxy": "1.6.0",
     "file-loader": "2.0.0",
