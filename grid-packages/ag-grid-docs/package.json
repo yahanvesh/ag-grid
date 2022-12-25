@@ -42,7 +42,7 @@
     "escodegen": "1.11.0",
     "esprima": "4.0.1",
     "express-http-proxy": "1.6.0",
-    "file-loader": "2.0.0",
+    "file-loader": "6.0.0",
     "fs-extra": "9.1.0",
     "glob": "7.1.2",
     "jquery": "3.3.1",
