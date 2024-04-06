@@ -28,7 +28,7 @@
     "algoliasearch": "4.8.5",
     "bootstrap": "4.6.0",
     "classnames": "2.2.6",
-    "eslint": "7.19.0",
+    "eslint": "9.0.0",
     "eslint-config-react-app": "6.0.0",
     "eslint-plugin-flow": "2.29.1",
     "eslint-plugin-flowtype": "5.2.0",
