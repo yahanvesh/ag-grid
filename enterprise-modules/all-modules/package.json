@@ -67,7 +67,7 @@
   "homepage": "http://www.ag-grid.com/",
   "dependencies": {
     "@ag-grid-community/all-modules": "~25.1.0",
-    "@ag-grid-enterprise/charts": "~25.1.0",
+    "@ag-grid-enterprise/charts": "~31.3.3",
     "@ag-grid-enterprise/clipboard": "~25.1.0",
     "@ag-grid-enterprise/column-tool-panel": "~25.1.0",
     "@ag-grid-enterprise/core": "~25.1.0",
