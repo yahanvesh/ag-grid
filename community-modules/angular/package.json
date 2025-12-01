@@ -19,7 +19,7 @@
   "typings": "./dist/ag-grid-angular/ag-grid-community-angular.d.ts",
   "dependencies": {
     "@angular/animations": "~9.0.0",
-    "@angular/common": "~9.0.0",
+    "@angular/common": "~19.2.16",
     "@angular/compiler": "~9.0.0",
     "@angular/core": "~9.0.0",
     "@angular/forms": "~9.0.0",
